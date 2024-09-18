@@ -22,7 +22,7 @@
     'application': True,
     'images':['static/description/Banner.gif'],
     'sequence': '-100',
-    'price': '1.0',
+    'price': '10.0',
     'currency': 'USD',
 }
 
